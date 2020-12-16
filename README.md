@@ -1,5 +1,5 @@
 # Snapshot Watch
-I've copied Darron's project (https://github.com/darrencroton/SnapshotWatch) and will try to downgrade it to SDK 1.3 for the Forerunner 235.
+I've copied Darren's project (https://github.com/darrencroton/SnapshotWatch) and will try to downgrade it to SDK 1.3 for the Forerunner 235.
 
 A clean, simple, and elegant analogue watch face for the Forerunner 735XT that plots a heart rate graph of your last 4 hours in the background.
 
