@@ -1,4 +1,6 @@
 # Snapshot Watch
+I've copied Darron's project (https://github.com/darrencroton/SnapshotWatch) and will try to downgrade it to SDK 1.3 for the Forerunner 235.
+
 A clean, simple, and elegant analogue watch face for the Forerunner 735XT that plots a heart rate graph of your last 4 hours in the background.
 
 In addition, most of your daily data is shown in an unobtrusive way: day and date, current/minimum/maximum heart rate, steps and step goal, sunrise/sunset, and icons for notification count/bluetooth/alarms/do not disturb. 
